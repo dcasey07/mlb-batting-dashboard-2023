@@ -9,7 +9,7 @@ The goal of this project is to develop a comprehensive data visualization dashbo
 2. **Dashboard Development**: Build an interactive and dynamic dashboard
 3. **Advanced Analytics Integration**: Produce visualizations of the top hitters for a chosen statistic
 4. **Team Aggregation**: Generate visualizations that aggregate a chosen team's statistical performance
-5. **Accessibility and Usability**: Ensure ease of use and accessibility
+5. **Accessibility and Usability**: Minimalist design to ensure ease of use
 
 ## Data Sources and Collection
 This project will source data that was posted to www.kaggle.com and was collected from www.fangraphs.com by Shane Simon.
