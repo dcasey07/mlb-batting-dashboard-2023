@@ -15,9 +15,9 @@ The goal of this project is to develop a comprehensive data visualization dashbo
 This project will source data that was posted to www.kaggle.com and was collected from www.fangraphs.com by Shane Simon. Additionally, I am investigating the potential for incorporating information from the Python library pybaseball (MIT License, Copyright (c) 2017 James LeDoux) to potentially supplement the data.
 
 **Fangraphs.com attributes their data sources as follows:**
-- Major League Baseball data provided by Major League Baseball.
-- All major league baseball data including pitch type, velocity, batted ball location, and play-by-play data provided by Sports Info Solutions.
-- All UZR (ultimate zone rating) calculations are provided courtesy of Mitchel Lichtman.
+- Major League Baseball data provided by Major League Baseball
+- All major league baseball data including pitch type, velocity, batted ball location, and play-by-play data provided by Sports Info Solutions
+- All UZR (ultimate zone rating) calculations are provided courtesy of Mitchel Lichtman
 - All Win Expectancy, Leverage Index, Run Expectancy, and Fans Scouting Report data licenced from TangoTiger.com
 
 ## Key Features
